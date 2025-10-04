@@ -1,3 +1,3 @@
-sskkssskkkkskskskksskskllskksqqsssslalasss
+sssskkssskkkkskskskksskskllskksqqsssslalasss
 
 # DRF_Image_Upload

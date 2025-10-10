@@ -1,5 +1,1 @@
-lslslslsllsllwlaaqwsssllsslssss
-
-ssccddlalskksksksaassssss
-
 # DRF_Image_Upload

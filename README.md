@@ -1,3 +1,1 @@
-asvvasaasjjssaasssaasaasaahhhh
-
 # DRF_Image_Upload
